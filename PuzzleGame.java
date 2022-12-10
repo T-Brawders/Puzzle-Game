@@ -124,7 +124,7 @@ public class PuzzleGame extends JFrame{
 
 
 
-        setSize(HEIGHT,WIDTH);
+        setSize(WIDTH,HEIGHT);
         setResizable(false);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setVisible(true);
